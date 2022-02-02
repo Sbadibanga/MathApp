@@ -16,6 +16,7 @@ For the database: There is 2 tables in the database, one for the questions, topi
 The chart: should sum up the results and create a chart showing what topic the student did good and what they didn’t do good. To do this I ´ll create a function that retrieves this data and put it in the chart which will then be stored into the results layout.
 
 #Improvements
+
 Due to the fact that this was an assignment there are some errors that need fixing, to start of the score along with the display of the result and having the saved into a database.
 
 There is a teachers portal that also needs improvement, I was hoping to create an authentication for the teachers portal. The idea was that all the teachers names those emploed that is
