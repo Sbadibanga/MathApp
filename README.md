@@ -1,7 +1,7 @@
 # MathApp
 Mobile Application Development third year assignment.
 
-#System specifications
+## System specifications
 
 For this coursework I will be developing an application for year 1 students, where they will be able to take a test and see how good they did when it comes to the math for year 1. 
 There will need to start button where they are required to enter their first 
@@ -15,7 +15,7 @@ For the database: There is 2 tables in the database, one for the questions, topi
 
 The chart: should sum up the results and create a chart showing what topic the student did good and what they didn’t do good. To do this I ´ll create a function that retrieves this data and put it in the chart which will then be stored into the results layout.
 
-#Improvements
+## Improvements
 
 Due to the fact that this was an assignment there are some errors that need fixing, to start of the score along with the display of the result and having the saved into a database.
 
@@ -23,6 +23,6 @@ There is a teachers portal that also needs improvement, I was hoping to create a
 would be saved into the database before and teachers would be asked to register on the admin end, which would then add the teachers names into the teachers database and allow them to
 log into the app through the teaches protal and that portal would then not be accessible to everyone. but since this was an advanced feature I decided to let it just be as is.
 
-#Future Viewers and Employees 
+## Future Viewers and Employees 
 
-Hopefully in the futur I´ll be able to update the improvements and it will become a better app and ui.
+Hopefully in the future I´ll be able to update the improvements and it will become a better app and ui.
